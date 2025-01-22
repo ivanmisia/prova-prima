@@ -2,6 +2,10 @@
 
 ![Palermo](https://www.sicilia.info/wp-content/uploads/sites/91/palermo-hd.jpg)
 
+## Summary
+
+Questo progetto è stato realizzato come parte del corso "Building AI". L'obiettivo del progetto è quello di utilizzare tecniche di intelligenza artificiale per analizzare e migliorare vari aspetti della città di Palermo. Attraverso l'utilizzo di dati reali e strumenti avanzati di machine learning, abbiamo sviluppato soluzioni innovative per affrontare alcune delle sfide più significative della città.
+
 ## Descrizione del Progetto
 
 Questo progetto è stato realizzato come parte del corso "Building AI". L'obiettivo del progetto è quello di utilizzare tecniche di intelligenza artificiale per analizzare e migliorare vari aspetti della città di Palermo. Attraverso l'utilizzo di dati reali e strumenti avanzati di machine learning, abbiamo sviluppato soluzioni innovative per affrontare alcune delle sfide più significative della città.
@@ -20,4 +24,9 @@ Questo progetto è stato realizzato come parte del corso "Building AI". L'obiett
 - **TensorFlow**: Framework utilizzato per il deep learning e la creazione di reti neurali.
 - **Jupyter Notebook**: Ambiente di sviluppo interattivo utilizzato per la prototipazione e l'analisi dei dati.
 - **API Open Data**: Utilizzo di dati aperti forniti dal comune di Palermo e da altre fonti pubbliche.
-<details><summary>Toggle me!</summary>Ciaoooooo!</details>
+
+## Come Iniziare
+
+1. **Clonare il repository**:
+   ```bash
+   git clone https://github.com/ivanmisia/prova-prima.git
