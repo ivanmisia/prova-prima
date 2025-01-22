@@ -22,3 +22,4 @@ Questo progetto è stato realizzato come parte del corso "Building AI". L'obiett
 - **API Open Data**: Utilizzo di dati aperti forniti dal comune di Palermo e da altre fonti pubbliche.
 
 
+##summary ciao
